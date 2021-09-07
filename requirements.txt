@@ -1,0 +1,6 @@
+nibabel==3.2.1
+numpy==1.20.3
+opencv-python==4.5.3.56
+scikit-image==0.17.2
+SimpleITK==2.0.2
+tensorflow==2.1.0
