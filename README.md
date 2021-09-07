@@ -18,3 +18,5 @@ And run:
     >> python emidec_inference.py 
     
 to segment the test cases.
+
+You can also click to download the synthetic images generated with the [manipulated labels](https://emckclac-my.sharepoint.com/:u:/g/personal/k1633520_kcl_ac_uk/EVXm3OJ0xrFHgvHX7uQ5gjIBmQHhU2fwunuiW7UgNm1oKQ?e=Q3GFr8) and the [mixed labels](https://emckclac-my.sharepoint.com/:u:/g/personal/k1633520_kcl_ac_uk/ESHkXmcAeflLk1GXekhB65cBi9HxGVcQaxZgGB9B1O3OVw?e=UdIzPU).
